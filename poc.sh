@@ -4,4 +4,3 @@ name="hello jekins!!"
 
 echo $name
 
-java --version
